@@ -1,0 +1,3 @@
+In Jenkins, Build Periodically is a build trigger that allows you to schedule jobs to run automatically at specific time intervals, 
+regardless of whether any changes have been made to the source code. This feature is ideal for tasks like nightly builds, 
+regular system health checks, or periodic data backups.

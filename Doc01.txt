@@ -1,0 +1,2 @@
+In Jenkins, webhooks are automated HTTP callbacks that allow external systems—most commonly version control systems like GitHub, GitLab, or Bitbucket—to notify Jenkins instantly when a specific event occurs. 
+Instead of Jenkins periodically checking ("polling") for changes, the external system "pushes" a notification to Jenkins, triggering an immediate build or pipeline execution. 
