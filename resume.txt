@@ -3,4 +3,7 @@ Age: 26
 village : mylaram 
 Header: Name, Phone, Email, LinkedIn Profile (GitHub/Portfolio if applicable)
 Professional Summary: 2-3 lines highlighting top qualifications and goals.
+Skills Section: Technical tools, programming languages, or specific industry certifications.
+Work Experience:
+Role Title, Company Name, Dates, Location.
 A professional, ATS-friendly resume should be one page (if <10 years experience), using a clean, one-column format with clear headings
