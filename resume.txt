@@ -1,4 +1,6 @@
 Name : Saiprakash
 Age: 26
 village : mylaram 
+Header: Name, Phone, Email, LinkedIn Profile (GitHub/Portfolio if applicable)
+
 A professional, ATS-friendly resume should be one page (if <10 years experience), using a clean, one-column format with clear headings
