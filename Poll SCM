@@ -2,3 +2,5 @@ Poll SCM is a Jenkins build trigger that periodically checks your source code re
 If modifications are detected,it automatically starts a build, serving as an efficient alternative to continuous rebuilding by only running jobs 
 when code has actually changed.
 #1 commit
+Periodic Checking: Uses cron syntax to define how often to check for updates (e.g., H/15 * * * * checks every 15 minutes).
+#2
