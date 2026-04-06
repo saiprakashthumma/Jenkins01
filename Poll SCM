@@ -1,0 +1,4 @@
+Poll SCM is a Jenkins build trigger that periodically checks your source code repository (e.g., Git) for changes, such as new commits. 
+If modifications are detected,it automatically starts a build, serving as an efficient alternative to continuous rebuilding by only running jobs 
+when code has actually changed.
+#1 commit
